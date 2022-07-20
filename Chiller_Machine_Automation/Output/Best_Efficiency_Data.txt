@@ -1,0 +1,20 @@
+============================================================
+Best Efficiency = None (KW/TR)
+============================================================
+Sr. No.                                           :None
+Chilled Water Flow - (m^3/hr)                     :None
+Chiller Power - (Kw)                              :None
+Ambient Dry Build Temp.(DBT) - (Deg C)            :None
+Ambient Wet Build Temp.(WBT) -  (Deg C)           :None
+Relative Humidity (RH) - (%)                      :None
+Chilled Water Temp. Inlet (Tc in) - (Deg C)       :None
+Chilled Water Temp. Outlet (Tc out) - (Deg C)     :None
+Refrigerent Temp. in Chiller (Deg C)              :None
+Cooling Water Temp. Inlet (Tcw in) - (Deg C)      :None
+Cooling Water Temp. Outlet (Tc out) - (Deg C)     :None
+Chiller Range - (Deg C)                           :None
+Condensor Range - (Deg C)                         :None
+Chiller Operating TR - (TR)                       :None
+COP                                               :None
+Chiller Approch - (Deg C)                         :None
+Condensor Approch - (Deg C)                       :None
